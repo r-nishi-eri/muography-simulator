@@ -1,0 +1,7 @@
+xDet 600
+yDet 600
+zDet 215
+radiusDet 500
+tub 10
+idOutput 0001
+outDir ./

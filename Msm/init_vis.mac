@@ -1,0 +1,14 @@
+# Macro file for the initialization phase of "exampleN03.cc"
+# when running in interactive mode with visualization
+#
+# Sets some default verbose
+#
+/control/verbose 2
+/control/saveHistory
+/run/verbose 2
+#
+# Visualization setting
+/control/execute vis-msm-ogl.mac
+
+# in case if you use RayTracer
+# /control/execute vis-msm-raytracer.mac

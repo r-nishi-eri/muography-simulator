@@ -1,0 +1,10 @@
+xInjCenter 600
+yInjCenter 600
+zInjCenter 200
+radiusInjXY 600
+radiusInjZ 300
+FILE 0.05 500.0 11 -1 ../fluxfile/electron_minus_smoothed- 10 40 1.0 0.1
+FILE 0.05 500.0 -11 1 ../fluxfile/electron_plus_smoothed- 10 40 1.0 0.1
+FILE 0.05 500.0 22 0 ../fluxfile/gamma_smoothed- 10 40 1.0 0.1
+FILE 0.05 500.0 2212 1 ../fluxfile/proton_smoothed- 10 40 1.0 0.1
+FILE 0.05 500.0 2112 0 ../fluxfile/neutron_smoothed- 10 40 1.0 0.1
